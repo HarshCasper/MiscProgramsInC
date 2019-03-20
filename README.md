@@ -14,3 +14,7 @@ the power by 2 each time it is called and if the power is even then a product of
 
 This is the solution to a problem given [here](https://github.com/jorgegonzalez/beginner-projects#menu-calculator) the user enters a numeric code based upon the things he is buying and the bill is returned to him. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/Menu.c).
 
+- RockPapersScissors :
+
+This is the implementation of the ridiculously popular Rock, Papers and Scissors Game in C Programming Language where the player plays against a computer. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/RockPaperScissors.c).
+
