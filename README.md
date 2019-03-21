@@ -18,7 +18,7 @@ This is the solution to a problem given [here](https://github.com/jorgegonzalez/
 
 This is the implementation of the ridiculously popular Rock, Papers and Scissors Game in C Programming Language where the player plays against a computer. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/RockPaperScissors.c).
 
--GuessGame :
+- GuessGame :
 
 This is a C implementation of High Lower Guessing Game where the Computer puts a number and the user needs to guess it. If the
 user guesses a greater number than what computer has put up, a message is displayed that User has entered a greater number and vice
