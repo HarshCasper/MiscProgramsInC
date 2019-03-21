@@ -36,3 +36,6 @@ and if all the criteria are met, then the password strenth is strong otherwise m
 The following program is the implementation of the Stack Data Structure using Arrays on C-Programming Languages with basic operations
 like Push, Pop, Display and Peek performed on the Stack. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/Stack.c).
 
+- LinkedList :
+
+This program is an implementation of Linked List in C Programming Language with Insertion and Display Operations performed on them. Solution can be found here [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/LinkedList.c).
