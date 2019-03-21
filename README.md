@@ -25,6 +25,12 @@ user guesses a greater number than what computer has put up, a message is displa
 versa. In addition, Lifeline Options have also been added to the game to allow the user some hints like whether the number is Even/Odd,
 Prime/Composite or the sum of digits. A Guess counter has also been added for further compatability. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/GuessGame.c).
 
+- PasswordStrenth : 
+
+The is an implementation of Password Strenth Measurer in C Programming Language. This basic Strenth Checker, checks
+the length of the Password Strenth, the presence of Uppercase Character, Lowercase Character, Digits and finally the Special Characters
+and if all the criteria are met, then the password strenth is strong otherwise medium or weak. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/PasswordStrength.c).
+
 - Stack :
 
 The following program is the implementation of the Stack Data Structure using Arrays on C-Programming Languages with basic operations
