@@ -45,4 +45,4 @@ This program is an implementation of Linked List in C Programming Language with 
 The following program is an implementation of the popular Anangram problem wherein if two words are formed off the same set of
 characters, they can be called as anagrams. Example of anagrams are 'tab' and 'bat' which are formed off the same set of characters
 {a,b,t}. Hence here is an implementation of the Anagrams problem which calculates the sum of value of ASCII characters to check if
-two words are Anangram or not. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/Anagram.c}.
+two words are Anangram or not. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/Anagram.c).
