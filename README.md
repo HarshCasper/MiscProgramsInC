@@ -40,9 +40,22 @@ like Push, Pop, Display and Peek performed on the Stack. Solution can be found [
 
 This program is an implementation of Linked List in C Programming Language with Insertion and Display Operations performed on them. Solution can be found here [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/LinkedList.c).
 
--Anagram: 
+- Anagram:  
 
 The following program is an implementation of the popular Anangram problem wherein if two words are formed off the same set of
 characters, they can be called as anagrams. Example of anagrams are 'tab' and 'bat' which are formed off the same set of characters
 {a,b,t}. Hence here is an implementation of the Anagrams problem which calculates the sum of value of ASCII characters to check if
 two words are Anangram or not. Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/Anagram.c).
+
+- Insertion Sort 
+
+This program implements Insertion Sort in C-Programming Language. Insertion Sort is a popular Sorting Algorithm which sorts an array in O(n^2) Time Complexity following an Incremental Approach Programming Paradigm. It works by comparing a particular element with the rest elements in the array and then shifts the element if an element is found greater.  Solution can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/insertion-sort.c).
+
+- Bubble Sort 
+
+Bubble Sort is one of the most commonly used Sorting Algorithm and is best preffered for Arrays/Lists with less number of elements. It works by checking each and every adjacent element in the list/array and if the previous element is greater than the latter one then a Swap Operation is performed to place the element in its correct position with respect to the particular element. The total number of passes done are (Number of Elements-1) within which the whole of the array will be sorted out. Solution can be found [here](https://github.com/HarshCasper/Sorting/blob/master/bubble-sort.c).
+
+- Quick Sort 
+
+Quick Sort is one of the most popular Sorting Algorithms out there in the field of Programming designed and implemented here in the C Programming Language demonstrating a Time Complexity of O(nlog(n)) in its Best Case while O(n^2) in it's worst case making it significantly faster than many popular Sorting Algorithms. It follows the "Divide and Conquer" paradigm where it divides the array into two equal halves as it is easier to sort them, with a Pivot element near the middle of array allowing to elements to move to their apt position. The primary disadvantage of such an array is the use of Recursion which leads to High Stack Consumption. Solution can be found [here](https://github.com/HarshCasper/Sorting/blob/master/quick-sort.c).
+
