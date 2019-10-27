@@ -59,3 +59,11 @@ Bubble Sort is one of the most commonly used Sorting Algorithm and is best preff
 
 Quick Sort is one of the most popular Sorting Algorithms out there in the field of Programming designed and implemented here in the C Programming Language demonstrating a Time Complexity of O(nlog(n)) in its Best Case while O(n^2) in it's worst case making it significantly faster than many popular Sorting Algorithms. It follows the "Divide and Conquer" paradigm where it divides the array into two equal halves as it is easier to sort them, with a Pivot element near the middle of array allowing to elements to move to their apt position. The primary disadvantage of such an array is the use of Recursion which leads to High Stack Consumption. Solution can be found [here](https://github.com/HarshCasper/Sorting/blob/master/quick-sort.c).
 
+- Diwali 
+
+Diwali is a classic rendition of the Diwali Lamp using Pattern Programming which can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/diwali.c)
+
+- Cracker
+
+Cracker is the classic rendition of the Diwali using Pattern Programming which can be found [here](https://github.com/HarshCasper/MiscProgramsInC/blob/master/cracker.c)
+
